@@ -1,0 +1,25 @@
+{
+  "name": "logo-generator",
+  "version": "1.0.0",
+  "description": "logo generating application for termninal use",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/JoshuaVaneps/logo-generator"
+  },
+  "keywords": [
+    "logo"
+  ],
+  "author": "Joshua Vaneps",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "inquirer-maxlength-input-prompt": "^1.0.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
