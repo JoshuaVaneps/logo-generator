@@ -1,5 +1,5 @@
 
-  # Terminal SSvg Logo Application
+  # Terminal SVG Logo Application
   <img src="https://img.shields.io/badge/license-Academic Free License v3.0-red">
   
   ## Description
